@@ -1,5 +1,7 @@
 🏦 Credit Card Churn Prediction Model
- 
+
+ ![Screenshot (9)](https://github.com/user-attachments/assets/ca344032-0afe-4a73-91cc-66e91360f41c)
+
 
 📋 Overview
 This repository contains a machine learning model designed to predict customer churn in a credit card company. By identifying key factors that lead to customer attrition, this model can help the company take proactive measures to retain valuable customers.
